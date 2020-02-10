@@ -34,27 +34,44 @@ should be updated.
 be correct output of your code for the ‘poeple.txt’)
 
 ------ RB-Tree ------
+
 All items were inserted.
+
 The result of GETNUMSMALLER1 for the node with birthdate 7/6/1991 is 35
+
 The result of GETNUMSMALLER2 for the node with id 9988 is 35
+
 The maximum age of all people is 98, id : 4434, Birthdate : 1920
+
 The minimum age of all people is 13, id : 6060, Birthdate : 2003
+
 The number of all people is 49
 
 ------ Augmented RB-Tree ------
+
 All items were inserted.
+
 The result of GETNUMSMALLER1 for the node with birthdate 7/6/1991 is 35
+
 The result of GETNUMSMALLER2 for the node with id 9988 is 35
+
 The maximum age of all people is 98, id : 4434, Birthdate : 1920
+
 The minimum age of all people is 13, id : 6060, Birthdate : 2003
+
 The number of all people is 49
 
 Menu
 1- Insert a new person
+
 2- GETNUMSMALLER
+
 3- GETMAX
+
 4-GETMIN
+
 5-GETNUM
+
 6-PRINT
 
 >>Task 4: Prepare a menu as shown above. After choosing between 1-6, provide other necessary inputs from the user.
