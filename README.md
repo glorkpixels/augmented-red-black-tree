@@ -62,6 +62,7 @@ The minimum age of all people is 13, id : 6060, Birthdate : 2003
 The number of all people is 49
 
 Menu
+
 1- Insert a new person
 
 2- GETNUMSMALLER
