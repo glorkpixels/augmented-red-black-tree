@@ -30,17 +30,17 @@ An example output of your program should appear as follows (This is just an exam
 
 ***------ RB-Tree ------***
 
-All items were inserted.
+* All items were inserted.
 
-The result of GETNUMSMALLER1 for the node with birthdate 7/6/1991 is 35
+* The result of GETNUMSMALLER1 for the node with birthdate 7/6/1991 is 35
 
-The result of GETNUMSMALLER2 for the node with id 9988 is 35
+* The result of GETNUMSMALLER2 for the node with id 9988 is 35
 
-The maximum age of all people is 98, id : 4434, Birthdate : 1920
+* The maximum age of all people is 98, id : 4434, Birthdate : 1920
 
-The minimum age of all people is 13, id : 6060, Birthdate : 2003
+* The minimum age of all people is 13, id : 6060, Birthdate : 2003
 
-The number of all people is 49
+* The number of all people is 49
 
 ***------ Augmented RB-Tree ------***
 
